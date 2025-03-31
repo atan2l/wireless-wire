@@ -1,3 +1,5 @@
+#![no_std]
+
 use embedded_hal::delay::DelayNs;
 use embedded_hal::digital::{InputPin, OutputPin};
 
